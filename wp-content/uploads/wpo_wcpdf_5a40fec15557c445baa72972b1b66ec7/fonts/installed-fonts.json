@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/OpenSans-Normal",
+        "bold": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/OpenSans-Bold",
+        "italic": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/OpenSans-Italic",
+        "bold_italic": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/Segoe-Normal",
+        "bold": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/Segoe-Bold",
+        "italic": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/Segoe-Italic",
+        "bold_italic": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/RobotoSlab-Normal",
+        "bold": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/RobotoSlab-Bold",
+        "italic": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/currencies",
+        "bold": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/currencies",
+        "italic": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/currencies",
+        "bold_italic": "\/home\/americ83\/public_html\/wp-content\/uploads\/wpo_wcpdf_5a40fec15557c445baa72972b1b66ec7\/fonts\/currencies"
+    }
+}

@@ -1,0 +1,117 @@
+/* Print Styles */
+@media print {
+
+    
+    #id2541067 {
+        overflow: unset;
+        margin-top: 0px !important;
+    }
+.et_pb_bg_layout_dark{
+    margin-bottom : 0 !important;
+}
+.rh-location{
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+
+.rhcalc input {
+    
+    height: 50px !important;
+    text-align: center !important;
+}
+
+    .print-results, .addtest, .mobile_menu_bar.mobile_menu_bar_toggle, .right-social-icon #et_top_search, .right-social-icon #et_top_user, .right-social-icon .et-cart-info, .footer-first-logo, .et_pb_column_1_tb_footer, .et_pb_column_5_tb_footer, .et_pb_column_2_tb_footer, .et_pb_column_3_tb_footer, .et_pb_column_4_tb_footer {
+        display: none;
+    }
+
+    /* .cccalc{
+        margin-top: -60px !important;
+    } */
+    .hidden_element {
+        margin-top: 50px;
+    }
+    #et-top-navigation .logo_container {
+        left: 50%;
+        margin-top: 50px !important;
+    }
+    .dark.em-input{
+        width: 150px !important;
+    }
+    .headerrow>td{
+        width: 50px !important;
+
+    }
+    table tr td{
+       padding: 13px !important;
+    }
+
+    .cart_product_count{
+        display: none !important;
+    }
+    .logo_container a img {
+        display: block;
+        max-width: 150% !important;
+        width: 115% !important;
+        height: auto !important;
+        margin-bottom: 0 !important;
+    }
+
+    #et-main-area {
+        margin-top: 50px;
+    }
+
+    .et_pb_row.et_pb_row_2_tb_footer .et_pb_column_6_tb_footer .et_pb_text_align_center .et_pb_text_inner p {
+        font-size: 25px;
+        color: black;
+    }
+
+    .et_pb_section.et_pb_section_0.et_section_regular{
+        margin-top: 0 !important;
+        padding-bottom: 0 !important;
+        padding-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+    .et_pb_row.et_pb_row_2_tb_footer {
+        margin-top: -300px !important;
+        margin-bottom: 0 !important;
+        padding-bottom: 0 !important;
+    }
+    .et_pb_row.et_pb_row_2_tb_footer.Copy_right_area .et_pb_text_inner p{
+        font-size: 15px !important;
+    }
+    #vaporEmissionTests table {
+        max-width: 200% !important;
+        width: 150% !important;
+        margin-left: -60px;
+        padding: 0px;
+    }
+
+    #vaporEmissionTests table, td {
+        border: 0 !important;
+
+    }
+
+    .calci_table table {
+        border-collapse: collapse;
+        border: 0px !important;
+        text-align: center;
+    }
+
+    tr#tfa_Test, tr.headerRow {
+        padding: 0 !important;
+        text-align: center;
+    }
+
+    #tfa_Test td {
+        padding: 0 !important;
+        text-align: center;
+    }
+
+    td#btnAdd {
+        display: none;
+    }
+
+
+
+}
